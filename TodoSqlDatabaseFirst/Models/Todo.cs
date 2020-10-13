@@ -23,5 +23,6 @@ namespace TodoSqlDatabaseFirst.Models
         public bool Completed { get; set; }
         public DateTime Created { get; set; }
     }
+}
 
 
